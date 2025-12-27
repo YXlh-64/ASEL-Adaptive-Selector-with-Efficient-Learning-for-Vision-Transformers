@@ -1,0 +1,7 @@
+torch>=1.13
+torchvision>=0.14
+timm>=0.6
+numpy>=1.21
+matplotlib>=3.4
+tqdm>=4.60
+fvcore>=0.1; extra == 'fv'
